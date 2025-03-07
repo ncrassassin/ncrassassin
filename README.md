@@ -1,4 +1,3 @@
-[![MasterHead](https://i.imgur.com/PPkkAez.jpg)](https://github.com/ncrassassin)
 # Hi there, I'm NCRAssassin! 👋
 
 I'm an electronic engineer with a passion for designing innovative solutions and writing clean, efficient code. Welcome to my GitHub profile!
