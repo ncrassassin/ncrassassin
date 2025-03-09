@@ -23,7 +23,7 @@ I'm an electronic engineer with a passion for designing innovative solutions and
 
 ## 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ncrassassin&repo=ncrassassin&theme=radical)](https://github.com/ncrassassin/ncrassassin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ncrassassin&repo=KeysightSignalGenController&theme=radical)](https://github.com/ncrassassin/KeysightSignalGenController)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ncrassassin&repo=AutoCalFlukeTest&theme=radical)](https://github.com/ncrassassin/AutoCalFlukeTest)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
